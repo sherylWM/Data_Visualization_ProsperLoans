@@ -1,2 +1,1 @@
-# Data_Visualization_ProsperLoans
-Data Visualization of Prosper Loans data
+# Data Visualization of Prosper Loans Dataset
