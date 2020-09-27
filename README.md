@@ -47,4 +47,12 @@ For non-main features of interest there were some interesting relationships that
 
 #### Multivariate Analysis:
 
+1. LoanOriginalAmount is an important factor that can predict a borrower's APR.
+2. ProsperRating is also an important factor that can predict a borrower's APR.
+3. I also noticed that the range of borrower's APR grows larger as the ratings decrease. Also the range of loan original amount is the highest for those rated in A, B and C. <br/>
+4. Maximum borrowers prefer a loan term of 36 months followed by 60 months.
+5. The more a borrower borrows, the lesser the APR.
+
 ### Explanatory Analysis:
+
+Overall, the 2 most important features that can predict a borrower's APR are Loan original amount and prosper rating. It can be safe to say that the borrower's APR increases as the Prosper Ratings decrease. Maximum borrowers prefer a 36 month term. he more a borrower borrows, the lesser the APR.
